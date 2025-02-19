@@ -1,0 +1,6 @@
+torch
+torchvision 
+torchaudio
+ultralytics
+tensorboard
+pytorch-ignite

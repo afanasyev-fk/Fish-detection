@@ -1,0 +1,8 @@
+path: dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['gurame', 'ikan-mas', 'ikan-pacu']
